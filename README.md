@@ -9,8 +9,8 @@ https://forums.bannister.org/ubbthreads.php?ubb=showflat&Number=118786
 ### Configs
 Can be setup by modifying `translate.c` before build:
 1. `Lines 45 to 60` Key Mapping
-2. `Line 23` The location of your input device (See evtest to find out)
-3. `Line 202` Event loop sleep interval (I find 5ms to be pretty decent)
+2. `Line 23` The location of your input device (See `evtest` to find out)
+3. `Line 202` Event loop sleep interval (I find `5ms` to be pretty decent)
 
 ### Build
 `cc translate.c -o translate`
