@@ -1,5 +1,8 @@
 # brawlhalla-linux-multikeyboard
-Binding a second keyboard to a virtual controller for brawlhalla. Seems to have undetectable latency, I feel no difference in input (high diamond rank)
+Binding a second (or more) keyboards to a virtual controller for brawlhalla. Seems to have undetectable latency
+
+
+I also spent 30 min in training and experimental comparing a native vs emulated input, I feel no difference in input (diamond rank)
 
 ### Source
 Taken and modified from here:
