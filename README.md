@@ -18,8 +18,13 @@ Can be setup by modifying `translate.c` before build:
 ### Build
 `cc translate.c -o translate`
 
+my wasd setup: `cc wasd.c -o wasd`
+arrow keys setup: `cc arrows.c -o arrows`
+
 ### Run
 `sudo ./translate [optional: path to input device]`
+
+or use wasd or arrows if you compiled those
 
 ### Setup
 Go to steam controller settings, and rebind the keymap to the standard brawlhalla controls for controller.
